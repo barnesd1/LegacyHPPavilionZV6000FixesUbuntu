@@ -1,0 +1,1 @@
+# LegacyHPPavilionZV6000FixesUbuntu
