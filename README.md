@@ -9,6 +9,7 @@
     sudo apt install gnome-tweaks -y
     sudo apt install stacer -y
     sudo apt install timeshift -y
+    sudo apt install preload -y
     Download Chrome browser and save file
     sudo dpkg -i ~/Downloads/*.deb
 ## Move Applications Button
