@@ -1,6 +1,6 @@
 # Legacy Laptop - HP Pavilion ZV6000 Series - Fixes Ubuntu 20.04
 ## Update System
-    sudo apt update -y && sudo apt upgrade -y && sudo apt autoremove
+    sudo apt update -y && sudo apt upgrade -y && sudo apt autoremove -y
     sudo update-grub
     sudo reboot
 ## Install These
