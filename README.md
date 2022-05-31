@@ -25,7 +25,8 @@
     In Privacy switch off everything
 ## Run Gnome Tweaks
     Make Workspaces to Static 1 Only 
-## Install Lubuntu Desktop
+## Install Lubuntu Desktop and Light Display Manager
     sudo apt install --no-install-recommends lubuntu-desktop 
-    sudo dpkg-reconfigure sddm
+    sudo apt install lightdm
+    sudo dpkg-reconfigure lightdm
 
