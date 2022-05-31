@@ -9,7 +9,6 @@
     sudo apt install gnome-tweaks -y
     sudo apt install stacer -y
     sudo apt install timeshift -y
-    sudo apt install preload -y
     Download Chrome browser and save file
     sudo dpkg -i ~/Downloads/*.deb
 ## Move Applications Button
@@ -25,5 +24,8 @@
     Stop Search running
     In Privacy switch off everything
 ## Run Gnome Tweaks
-    Make Workspaces to Static 1 Only
+    Make Workspaces to Static 1 Only 
+## Install Lubuntu Desktop
+    sudo apt install --no-install-recommends lubuntu-desktop 
+    sudo dpkg-reconfigure sddm
 
