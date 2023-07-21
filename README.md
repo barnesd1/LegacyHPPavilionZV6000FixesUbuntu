@@ -29,4 +29,6 @@
     sudo apt install --no-install-recommends lubuntu-desktop 
     sudo apt install lightdm
     sudo dpkg-reconfigure lightdm
+## Chrome settings for no GPU causing screen tearing
+    in Chrome url chrome://flags search for gpu and set each option to Disabled
 
